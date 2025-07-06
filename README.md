@@ -87,8 +87,8 @@ HR-Analytics-Project/
 
 If you liked this project, feel free to connect with me on:
 
-- 🌐 [My Portfolio](https://your-portfolio-link)
-- 📘 [LinkedIn](https://linkedin.com/in/yourname)
-- 🧑‍💻 [GitHub](https://github.com/yourusername)
+- 🌐 [My Portfolio]([https://your-portfolio-link](https://niks23c.github.io/Nikhilchavan.github.io/))
+- 📘 [LinkedIn](www.linkedin.com/in/nikhil-c-993548151)
+- 
 
 ---
